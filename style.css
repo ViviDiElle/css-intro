@@ -1,0 +1,154 @@
+.container {
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+#logo {
+    width: 10em;
+    margin-bottom: 1em;
+    border-radius: 0px;
+    box-shadow: 0 0 0px 0px;
+}
+
+.sottot {
+    align-content: center;
+    background-color: rgb(252, 241, 225);
+    padding: 1em;
+    border-top: 1px solid yellow;
+    color: green;
+    margin: 0,5em;
+    font-size: xx-small;
+}
+
+.grassetto {
+    font-weight: bold;
+}
+
+
+h1{
+    font-weight: bolder;
+    text-align: center;
+    border: 20rem;
+    margin-left: 23rem;
+    margin-right: 23rem;
+    padding: 5px;
+    font-size: x-large;
+    font-family: Georgia, serif;
+}
+
+h4 {
+    font-weight: normal;
+    font-size: x-small;
+    border: 20rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    padding: 5px;
+    text-align: justify;
+}
+
+ img {
+    width: 30em;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 8px 0px black;
+}
+
+h6 {
+    color: gray;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+.feat {
+    font-size: xx-small;
+    color: brown;
+    font-weight: bold;
+    text-align: left;
+    border: 20rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    border-left: 2px solid yellow;
+    padding-left: 5px;
+}
+
+a {
+    font-weight: normal;
+    font-size: small;
+    color: darkcyan;
+    text-align: left;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: large;
+    border-bottom: 2px lightcyan solid;
+    text-align: left;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    padding-left: 5px;
+}
+
+
+h3 {
+    font-weight: bolder;
+    font-size: small;
+    text-align: left;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    padding-left: 5px;
+}
+
+.lista1 {
+    font-size: small;
+    font-weight: lighter;
+    font-size: x-small;
+    font-weight: normal;
+    text-align: left;
+    border: 20rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    line-height: 2em;
+}
+
+.lista2 {
+    font-size: small;
+    font-weight: lighter;
+    font-size: x-small;
+    font-weight: normal;
+    text-align: left;
+    border: 20rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    line-height: 2em;
+}
+
+.lista3 {
+    font-weight: bolder;
+    font-size: small;
+    font-weight: bold;
+    text-align: left;
+    border: 20rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
+}
+
+.rec {
+    font-size: x-small;
+    margin-left: 26rem;
+    margin-right: 26rem;
+    text-align: left;
+    
+}
+
+p {
+    font-size: small;
+}
+
+#chiusura {
+    font-size: x-small;
+    font-weight: normal;
+    text-align: left;
+    margin-left: 24rem;
+    margin-right: 24rem;
+    border: 20rem;
+}
